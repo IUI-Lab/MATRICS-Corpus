@@ -2,7 +2,7 @@
 [English](README.md) [日本語](README-ja.md)
 
 # MATRICS Corpus
-The MATRICS (**M**ultimod**A**l (**T**ask-oriented) g**R**oup d**I**s**C**u**S**sion) corpus is a corpus that recorded verbal and non-verbal behaviors in group meetings. It contains discussions among four Japanese native speakers on three different topics.
+The MATRICS (**M**ultimod**A**l (**T**ask-oriented) g**R**oup d**I**s**C**u**S**sion) corpus is a corpus that recorded verbal and non-verbal behaviors in group meetings. It contains discussions among four Japanese native speakers on three different topics. The corpus contains 29 dialogues by 10 conversation groups. The time length is 9 hours in total.
 
 <img src="./misc/matrics.gif" height="220">
 

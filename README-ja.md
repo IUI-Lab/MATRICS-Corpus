@@ -2,7 +2,7 @@
 [English](README.md) [日本語](README-ja.md)
 
 # MATRICS Corpus
-MATRICS (**M**ultimod**A**l (**T**ask-oriented) g**R**oup d**I**s**C**u**S**sion) コーパスはグループ会議における言語・非言語行動を収録したコーパスです．3種類の異なる議題について日本語話者が議論した様子が収録されています．
+MATRICS (**M**ultimod**A**l (**T**ask-oriented) g**R**oup d**I**s**C**u**S**sion) コーパスはグループ会議における言語・非言語行動を収録したコーパスです．3種類の異なる議題について日本語話者が議論した様子が収録されています．収録データ総時間は約9時間（10会話グループによる計29対話）です．
 
 <img src="./misc/matrics.gif" height="220">
 
